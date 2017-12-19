@@ -1,1 +1,17 @@
 @charset "UTF-8";
+.description {
+    color: maroon;
+}
+#top {
+    font-family: cursive;
+    color: teal;
+    text-decoration: underline;
+}
+#disclaimer {
+    font-size: smaller;
+    font-style: italic;
+    color: gray;
+}
+nav {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
