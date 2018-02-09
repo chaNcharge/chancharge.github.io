@@ -6,6 +6,9 @@
     font-family: cursive;
     color: teal;
     text-decoration: underline;
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 250px;
 }
 #disclaimer {
     font-size: smaller;
@@ -14,4 +17,5 @@
 }
 nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 40px
 }
